@@ -17,3 +17,5 @@
 
 ## [5장 ref:DOM에 이름 달기](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap05)
 
+## [6장 컴포넌트반복](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap06)
+
