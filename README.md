@@ -21,3 +21,5 @@
 
 ## [7장 컴포넌트의 라이프사이클 메소드](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap07)
 
+## [8장 Hooks](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap08)
+
