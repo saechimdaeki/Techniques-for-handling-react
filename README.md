@@ -27,3 +27,5 @@
 
 ## [10장 일정관리 웹 애플리케이션 만들기](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap10)
 
+## [11장 컴포넌트 성능 최적화](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap11)
+
