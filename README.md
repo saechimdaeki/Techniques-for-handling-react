@@ -29,3 +29,7 @@
 
 ## [11장 컴포넌트 성능 최적화](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap11)
 
+## [12장 immer를 사용하여 더 쉽게 불변성 유지하기](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap12)
+
+ 
+
