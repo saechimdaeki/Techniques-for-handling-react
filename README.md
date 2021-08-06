@@ -33,3 +33,5 @@
 
 ## [13장 리액트 라우터로 SPA 개발하기](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap13)
 
+## [14장 외부 API를 연동하여 뉴스 뷰어 만들기](https://github.com/saechimdaeki/Techniques-for-handling-react/tree/main/chap14)
+
